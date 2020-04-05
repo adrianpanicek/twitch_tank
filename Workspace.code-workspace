@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"name": "Tank",
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\Ado\\.platformio\\penv\\Scripts;C:\\Users\\Ado\\.platformio\\penv;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Program Files\\Docker\\Docker\\Resources\\bin;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Android;C:\\Windows\\System32;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\Yarn\\bin\\;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;C:\\Users\\Ado\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\Ado\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\Ado\\AppData\\Roaming\\npm;C:\\Users\\Ado\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Ado\\AppData\\Local\\atom\\bin;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\Ado\\AppData\\Roaming\\Python\\Python36\\Scripts;C:\\Users\\Ado\\AppData\\Local\\Yarn\\bin;;C:\\ProgramData\\DockerDesktop\\version-bin;C:\\Program Files\\Docker\\Docker\\Resources\\bin;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Android;C:\\Windows\\System32;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\Yarn\\bin\\;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;C:\\Users\\Ado\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\Ado\\AppData\\Local\\Programs\\Python\\Python36-32\\;C:\\Users\\Ado\\AppData\\Roaming\\npm;C:\\Users\\Ado\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Ado\\AppData\\Local\\atom\\bin;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\heroku\\bin;C:\\Users\\Ado\\AppData\\Roaming\\Python\\Python36\\Scripts;C:\\Users\\Ado\\AppData\\Local\\Yarn\\bin;",
+			"PLATFORMIO_CALLER": "vscode"
+		},
+		"files.associations": {
+			"freertos.h": "c",
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"functional": "cpp",
+			"initializer_list": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"stdexcept": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"esp32-hal.h": "c"
+		}
+	}
+}
